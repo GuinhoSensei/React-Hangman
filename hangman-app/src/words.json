@@ -1,0 +1,446 @@
+[
+  {
+    "word": "react",
+    "hint": "A popular JavaScript library for building UIs"
+  },
+  {
+    "word": "javascript",
+    "hint": "The programming language of the web"
+  },
+  {
+    "word": "hangman",
+    "hint": "A classic word guessing game"
+  },
+  {
+    "word": "framework",
+    "hint": "A structure used to build software"
+  },
+  {
+    "word": "component",
+    "hint": "Reusable piece in a React app"
+  },
+  {
+    "word": "state",
+    "hint": "A way to store changing data in React"
+  },
+  {
+    "word": "props",
+    "hint": "Used to pass data in React"
+  },
+  {
+    "word": "node",
+    "hint": "JavaScript runtime built on Chrome\u2019s V8 engine"
+  },
+  {
+    "word": "express",
+    "hint": "Fast Node.js web framework"
+  },
+  {
+    "word": "vite",
+    "hint": "Fast frontend build tool"
+  },
+  {
+    "word": "html",
+    "hint": "Markup language for creating web pages"
+  },
+  {
+    "word": "css",
+    "hint": "Style language used with HTML"
+  },
+  {
+    "word": "frontend",
+    "hint": "The part of a website you see"
+  },
+  {
+    "word": "backend",
+    "hint": "The part of a website you don't see"
+  },
+  {
+    "word": "database",
+    "hint": "Stores and organizes digital data"
+  },
+  {
+    "word": "api",
+    "hint": "Interface for communicating between systems"
+  },
+  {
+    "word": "json",
+    "hint": "Lightweight data-interchange format"
+  },
+  {
+    "word": "ajax",
+    "hint": "Technique for asynchronous web requests"
+  },
+  {
+    "word": "dom",
+    "hint": "Document Object Model"
+  },
+  {
+    "word": "query",
+    "hint": "A request for data or information"
+  },
+  {
+    "word": "variable",
+    "hint": "Used to store data in programming"
+  },
+  {
+    "word": "function",
+    "hint": "Block of code designed to perform a task"
+  },
+  {
+    "word": "loop",
+    "hint": "Repeats a block of code"
+  },
+  {
+    "word": "condition",
+    "hint": "Used to make decisions in code"
+  },
+  {
+    "word": "array",
+    "hint": "A list-like data structure"
+  },
+  {
+    "word": "object",
+    "hint": "Data structure with key-value pairs"
+  },
+  {
+    "word": "class",
+    "hint": "Blueprint for creating objects"
+  },
+  {
+    "word": "inheritance",
+    "hint": "Mechanism for sharing behavior in OOP"
+  },
+  {
+    "word": "interface",
+    "hint": "Defines a contract in TypeScript"
+  },
+  {
+    "word": "typescript",
+    "hint": "JavaScript with types"
+  },
+  {
+    "word": "debug",
+    "hint": "To identify and fix errors"
+  },
+  {
+    "word": "compile",
+    "hint": "Transform code to executable form"
+  },
+  {
+    "word": "execute",
+    "hint": "Run the code"
+  },
+  {
+    "word": "interpreter",
+    "hint": "Executes code line by line"
+  },
+  {
+    "word": "runtime",
+    "hint": "Environment in which code is executed"
+  },
+  {
+    "word": "library",
+    "hint": "Collection of pre-written code"
+  },
+  {
+    "word": "package",
+    "hint": "Bundle of code reused in other programs"
+  },
+  {
+    "word": "npm",
+    "hint": "Package manager for JavaScript"
+  },
+  {
+    "word": "yarn",
+    "hint": "Alternative to npm"
+  },
+  {
+    "word": "module",
+    "hint": "A file containing reusable code"
+  },
+  {
+    "word": "export",
+    "hint": "Make code available to other files"
+  },
+  {
+    "word": "import",
+    "hint": "Bring in code from another file"
+  },
+  {
+    "word": "async",
+    "hint": "Allows non-blocking code execution"
+  },
+  {
+    "word": "await",
+    "hint": "Pauses async function execution"
+  },
+  {
+    "word": "promise",
+    "hint": "Represents a future value"
+  },
+  {
+    "word": "callback",
+    "hint": "Function passed as an argument"
+  },
+  {
+    "word": "http",
+    "hint": "Protocol for web communication"
+  },
+  {
+    "word": "https",
+    "hint": "Secure version of HTTP"
+  },
+  {
+    "word": "url",
+    "hint": "Address for resources on the web"
+  },
+  {
+    "word": "token",
+    "hint": "Used for authentication"
+  },
+  {
+    "word": "auth",
+    "hint": "Short for authentication"
+  },
+  {
+    "word": "session",
+    "hint": "Represents a user\u2019s interaction period"
+  },
+  {
+    "word": "cookie",
+    "hint": "Small data stored by browsers"
+  },
+  {
+    "word": "localstorage",
+    "hint": "Browser storage for persistent data"
+  },
+  {
+    "word": "render",
+    "hint": "Display UI components"
+  },
+  {
+    "word": "jsx",
+    "hint": "JavaScript XML used in React"
+  },
+  {
+    "word": "hook",
+    "hint": "Special function in React"
+  },
+  {
+    "word": "useeffect",
+    "hint": "React hook for side effects"
+  },
+  {
+    "word": "usestate",
+    "hint": "React hook for state management"
+  },
+  {
+    "word": "context",
+    "hint": "Pass data through component tree"
+  },
+  {
+    "word": "reducer",
+    "hint": "Function used for complex state"
+  },
+  {
+    "word": "router",
+    "hint": "Handles navigation in web apps"
+  },
+  {
+    "word": "route",
+    "hint": "Defines a path in a web app"
+  },
+  {
+    "word": "navigation",
+    "hint": "Moving between different views"
+  },
+  {
+    "word": "middleware",
+    "hint": "Function that runs before the request handler"
+  },
+  {
+    "word": "controller",
+    "hint": "Handles incoming requests"
+  },
+  {
+    "word": "model",
+    "hint": "Represents data structure"
+  },
+  {
+    "word": "view",
+    "hint": "UI representation in MVC"
+  },
+  {
+    "word": "mvc",
+    "hint": "Model-View-Controller pattern"
+  },
+  {
+    "word": "crud",
+    "hint": "Create, Read, Update, Delete"
+  },
+  {
+    "word": "sql",
+    "hint": "Structured Query Language"
+  },
+  {
+    "word": "nosql",
+    "hint": "Non-relational database"
+  },
+  {
+    "word": "mongodb",
+    "hint": "Popular NoSQL database"
+  },
+  {
+    "word": "mysql",
+    "hint": "Popular relational database"
+  },
+  {
+    "word": "postgres",
+    "hint": "Advanced open-source SQL database"
+  },
+  {
+    "word": "orm",
+    "hint": "Maps database records to objects"
+  },
+  {
+    "word": "sequelize",
+    "hint": "ORM for Node.js"
+  },
+  {
+    "word": "mongoose",
+    "hint": "ODM for MongoDB"
+  },
+  {
+    "word": "table",
+    "hint": "Data structure in databases"
+  },
+  {
+    "word": "row",
+    "hint": "Single record in a table"
+  },
+  {
+    "word": "column",
+    "hint": "Field in a table"
+  },
+  {
+    "word": "index",
+    "hint": "Improves data lookup speed"
+  },
+  {
+    "word": "schema",
+    "hint": "Defines structure of database"
+  },
+  {
+    "word": "migration",
+    "hint": "Database version control"
+  },
+  {
+    "word": "seed",
+    "hint": "Initial database data"
+  },
+  {
+    "word": "cloud",
+    "hint": "Remote servers for computing/storage"
+  },
+  {
+    "word": "firebase",
+    "hint": "Google\u2019s backend-as-a-service"
+  },
+  {
+    "word": "aws",
+    "hint": "Amazon\u2019s cloud computing service"
+  },
+  {
+    "word": "azure",
+    "hint": "Microsoft\u2019s cloud platform"
+  },
+  {
+    "word": "docker",
+    "hint": "Platform to containerize applications"
+  },
+  {
+    "word": "kubernetes",
+    "hint": "Orchestrates containers"
+  },
+  {
+    "word": "devops",
+    "hint": "Development and operations combined"
+  },
+  {
+    "word": "ci",
+    "hint": "Continuous Integration"
+  },
+  {
+    "word": "cd",
+    "hint": "Continuous Delivery"
+  },
+  {
+    "word": "testing",
+    "hint": "Verifying code works correctly"
+  },
+  {
+    "word": "unit",
+    "hint": "Smallest testable part of code"
+  },
+  {
+    "word": "integration",
+    "hint": "Test combined modules"
+  },
+  {
+    "word": "e2e",
+    "hint": "End-to-end testing"
+  },
+  {
+    "word": "jest",
+    "hint": "JavaScript testing framework"
+  },
+  {
+    "word": "mocha",
+    "hint": "JavaScript test library"
+  },
+  {
+    "word": "chai",
+    "hint": "Assertion library for testing"
+  },
+  {
+    "word": "lint",
+    "hint": "Tool to find code issues"
+  },
+  {
+    "word": "prettier",
+    "hint": "Code formatter"
+  },
+  {
+    "word": "version",
+    "hint": "A specific state of code"
+  },
+  {
+    "word": "git",
+    "hint": "Version control system"
+  },
+  {
+    "word": "github",
+    "hint": "Git-based code hosting"
+  },
+  {
+    "word": "commit",
+    "hint": "Save code changes"
+  },
+  {
+    "word": "branch",
+    "hint": "Independent line of development"
+  },
+  {
+    "word": "merge",
+    "hint": "Combine branches"
+  },
+  {
+    "word": "pull",
+    "hint": "Get latest code"
+  },
+  {
+    "word": "push",
+    "hint": "Upload code changes"
+  }
+]
